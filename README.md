@@ -1,16 +1,17 @@
-## Hi there 👋
+# Martin dos Santos 📚🖥️
 
-<!--
-**Tinch01/tinch01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Whoami ⁉️
+Estudiante de 4to año de Licenciatura en Sistemas, en la Facultad de Informatica de la UNLP.
 
-Here are some ideas to get you started:
+## Contacto 📫 📥
+<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> <b>LinkedIn: (https://www.linkedin.com/in/martin-ds/)<b></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="mailto:martunahuel@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="20"><b> Email: **martunahuel@hotmail.com**</b></a>
+
+<!-- 
+<a href="https://tuweb.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="20"> Portfolio: martin.me
+</a>
+
+>
