@@ -30,7 +30,7 @@ Trabajo principalmente con **Python** y **Java**, y conozco los frameworks que l
 
 Mantengo un **servidor propio en casa**, sobre una máquina virtual, donde levanto y administro mis propios servicios con Docker: recolección y scraping de información, automatizaciones y atajos que fui armando para resolverme cosas del día a día. Algunos servicios más chicos los tengo montados en la nube.
 
-Algo a lo que le dedico bastante tiempo es la **implementacion de inteligencia artificial **: implementaciones propias, entrenar mis propios modelos y entender qué hay realmente debajo, y lograr poder aplicar modelos por uno mismo en algunas soluciones.
+Algo a lo que le dedico bastante tiempo es la **implementacion de inteligencia artificial**: implementaciones propias, entrenar mis propios modelos y entender qué hay realmente debajo, y lograr poder aplicar modelos por uno mismo en algunas soluciones.
 
 
 ## Contacto
